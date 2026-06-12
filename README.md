@@ -60,4 +60,4 @@ To utilize live generation (Gemini 2.5 Flash), configure your key in `backend/.e
 ```env
 GEMINI_API_KEY=your_actual_key_here
 ```
-*Note: If no API key is specified, the system automatically runs on high-fidelity local simulations.*
+
