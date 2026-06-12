@@ -4,13 +4,6 @@ Autonomous Business Growth Platform designed for MSMEs, startups, and local busi
 
 ![BrandPilot AI Dashboard](dashboard_screenshot.png)
 
----
-
-## 🎨 Theme & UI Style
-- **Background:** White / Light Grey
-- **Accents:** Cyan, Yellow, and Red
-
----
 
 ## 📂 Project Structure
 ```text
