@@ -374,7 +374,7 @@ export default function Home() {
                 MP
               </div>
               <div className="text-left">
-                <p className="text-xs font-semibold text-slate-800">Milan Patel</p>
+                <p className="text-xs font-semibold text-slate-800">Milan Manoj</p>
                 <p className="text-[10px] text-slate-400">Workspace Owner</p>
               </div>
             </div>
